@@ -216,7 +216,7 @@ a:hover {
   border-radius: 50%;
   line-height: 1.4;
   margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #48abec;
+  box-shadow: 0 0 0 3px #000E2F;
   transition: all 500ms ease;
 }
 
@@ -804,7 +804,7 @@ a:hover {
 
 .work-content .w-like {
   font-size: 2.5rem;
-  color: #48abec;
+  color: #000E2F;
   float: right;
 }
 
@@ -939,7 +939,7 @@ a:hover {
 }
 
 .blog-wrapper .post-meta ul {
-  border-left: 4px solid #48abec;
+  border-left: 4px solid #000E2F;
   margin-top: 1rem;
 }
 
@@ -957,7 +957,7 @@ a:hover {
 }
 
 .blog-wrapper .blockquote {
-  border-left: 4px solid #48abec;
+  border-left: 4px solid #000E2F;
   padding: 18px;
   font-style: italic;
 }
@@ -1006,7 +1006,7 @@ a:hover {
 .widget-sidebar .sidebar-title {
   font-size: 1.6rem;
   font-weight: 600;
-  border-left: 5px solid #48abec;
+  border-left: 5px solid #000E2F;
   padding-left: 15px;
   text-transform: uppercase;
   margin-bottom: 1.5rem;
@@ -1023,7 +1023,7 @@ a:hover {
   width: 10px;
   height: 1px;
   left: 0;
-  background-color: #48abec;
+  background-color: #000E2F;
   top: 20px;
 }
 
@@ -1093,7 +1093,7 @@ footer .credits a {
 
 #sendmessage {
   color: #000E2F;
-  border: 1px solid #48abec;
+  border: 1px solid #000E2F;
   display: none;
   text-align: center;
   padding: 15px;
