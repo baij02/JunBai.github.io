@@ -463,14 +463,14 @@ a:hover {
 }
 
 .navbar-b.navbar-trans .nav-link:hover {
-  color: #fff;
+  color: #7C878E;
 }
 
 .navbar-b.navbar-trans .show > .nav-link,
 .navbar-b.navbar-trans .active > .nav-link,
 .navbar-b.navbar-trans .nav-link.show,
 .navbar-b.navbar-trans .nav-link.active {
-  color: #fff;
+  color: #7C878E;
 }
 
 .navbar-b.navbar-reduce {
@@ -508,7 +508,7 @@ a:hover {
 }
 
 .navbar-b .navbar-brand {
-  color: #fff;
+  color: #7C878E;
   font-size: 1.6rem;
   font-weight: 600;
 }
@@ -533,7 +533,7 @@ a:hover {
 
 .navbar-b .dropdown-menu .dropdown-item:hover {
   background-color: #000E2F;
-  color: #fff;
+  color: #7C878E;
   transition: all 500ms ease;
 }
 
